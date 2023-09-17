@@ -1,6 +1,6 @@
 base_url() {
   # echos string prefixed with base url
-  echo "https://github.com/warlock-sh/sh_dev_setup.git/master/$1"
+  echo "https://github.com/warlock-sh/sh_dev_setup/master/$1"
 }
 
 installHidden() {
